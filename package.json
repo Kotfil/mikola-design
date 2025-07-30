@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "cross-env PORT=3009 next start",
+    "start": "next start",
     "lint": "eslint --fix"
   },
   "dependencies": {
