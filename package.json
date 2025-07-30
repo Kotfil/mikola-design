@@ -1,11 +1,11 @@
 {
-  "name": "next-app-template",
+  "name": "mykola-design",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "next start",
+    "start": "PORT=3009 next start",
     "lint": "eslint --fix"
   },
   "dependencies": {
