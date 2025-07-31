@@ -4,7 +4,7 @@ import { Props } from "@/components/tools-section/tools-list/tool-view/tool-view
 
 export const ToolView: FC<Props> = ({ id, photo }) => {
   return (
-    <div className="mx-20 flex items-center">
+    <div className="mx-50 flex items-center">
       <Image
         src={photo}
         alt={`Tool ${id}`}
