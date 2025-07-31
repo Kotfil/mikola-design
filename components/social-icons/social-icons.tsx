@@ -90,7 +90,7 @@ export const ButtonTelegram = () => (
       isIconOnly
       as={"a"}
       target={"_blank"}
-      href={"https:/t.me/Kolya2353"}
+      href="https://t.me/Kolya2353"
     >
       <TelegramIcon />
     </Button>
